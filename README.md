@@ -14,7 +14,7 @@ Welcome to my AWS Projects Portfolio! This repository is a showcase of my profic
 
 ## About Me
 
-Hello, I'm Kevin Kiruri, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse use cases. Dive into each project to gain a deeper understanding of my approach to AWS architecture.
+Hello, I'm peter njathi, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse use cases. Dive into each project to gain a deeper understanding of my approach to AWS architecture.
 
 ## Projects Overview
 
@@ -52,10 +52,10 @@ If any of these projects pique your interest, simply navigate to the respective 
 
 Should you have any inquiries, feedback, or wish to explore potential collaboration opportunities, please don't hesitate to get in touch:
 
-- LinkedIn: [Kevin Kiruri's LinkedIn](https://www.linkedin.com/in/kevinkiruri/)
-- Twitter: [Kevin Kiruri's Twitter](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [peter njathi's LinkedIn](www.linkedin.com/in/peter-njathi-99b5b2274)
+- Twitter: [peter njathi's Whats p](https://wa/+254790305882)
 
 Thank you for visiting my AWS Projects Portfolio! I trust you'll find these projects not only informative but also inspiring.
 
-**Author:** Kevin Kiruri
+**Author:** peter njathi
 
