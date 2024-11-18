@@ -1,4 +1,4 @@
-# MyAws-projects.
+# MyAws-projects
 For  All my Aws cloud practitioner course
 
 # AWS Projects Portfolio
