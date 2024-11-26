@@ -48,7 +48,7 @@ Explore the diverse range of projects featured in this portfolio:
 
 If any of these projects pique your interest, simply navigate to the respective project directories and follow the comprehensive instructions provided in their README files for setup and utilization.
 
-## Contact Information
+## Contact Information.
 
 Should you have any inquiries, feedback, or wish to explore potential collaboration opportunities, please don't hesitate to get in touch:
 
