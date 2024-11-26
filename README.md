@@ -20,7 +20,7 @@ Hello, I'm peter njathi, and my passion lies in cloud computing and AWS. This po
 
 Explore the diverse range of projects featured in this portfolio:
 
-### Project 1: Data Visualization with AWS QuickSight and S3
+### Project 1: Data Visualization with AWS QuickSight and S3.
 
 - **Description:** This project focuses on visualizing data using AWS QuickSight sourced from AWS S3.
 - **Technologies Used:** AWS S3, AWS QuickSight.
