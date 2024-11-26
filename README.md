@@ -12,7 +12,7 @@ Welcome to my AWS Projects Portfolio! This repository is a showcase of my profic
 - [Getting Started](#getting-started)
 - [Contact Information](#contact-information)
 
-## About Me
+## About Me.
 
 Hello, I'm peter njathi, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse use cases. Dive into each project to gain a deeper understanding of my approach to AWS architecture.
 
